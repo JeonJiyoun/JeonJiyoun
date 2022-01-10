@@ -16,7 +16,7 @@
 ![Python] ![Github]     
 
 ### 📌 Stats
-![JeonJiyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJiyoun&show_icons=true&theme=shades-of-purple  )
+![JeonJiyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJiyoun&show_icons=true&theme=ocean_dark  )
 
 
 
