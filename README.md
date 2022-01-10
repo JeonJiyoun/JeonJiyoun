@@ -1,12 +1,20 @@
+<div>
+<a href="https://velog.io/@youn_22" style="align:right">
+    <img 
+        src="http://img.shields.io/badge/-Velog.io-43249F?style=plastice&logo=Vectorworks&link=https://velog.io/@youn_22"
+        style="height : auto; margin-left : 10px; margin-right : 10px; align: right;" align="right"/>
+</a>
+</div>
+
+
 ## JeonJiyoun 🔮
 
 ### ⚒ Skils
 ![Swift] ![iOS] ![Xcode] ![objc]          
-![JS] ![React] ![EJS] ![jquery]   
-![HTML] ![CSS] ![Bootstrap]       
+![JS] ![React] ![EJS] ![jquery] ![HTML] ![CSS] ![Bootstrap]       
 ![MySql] ![MariaDB] ![SQLite]          
-![Python]  
-![Github]     
+![Python] ![Github]     
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJiyoun&hide=jupyter%20notebook,c,racket,php,c%2B%2B,html,css,makefile,ruby,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
