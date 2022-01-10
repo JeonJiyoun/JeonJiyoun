@@ -7,16 +7,13 @@
 </div>
 
 
-<h2 align="center">🔮JeonJiyoun🔮</h2> 
-<br>
+## 🔮JeonJiyoun🔮
 
-### ⚒ Skils
-<p align="center">                 
+### ⚒ Skils               
 ![Swift] ![iOS] ![Xcode] ![objc]          
 ![JS] ![React] ![EJS] ![jquery] ![HTML] ![CSS] ![Bootstrap]       
 ![MySql] ![MariaDB] ![SQLite]          
 ![Python] ![Github]     
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJiyoun&hide=jupyter%20notebook,c,racket,php,c%2B%2B,html,css,makefile,ruby,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
