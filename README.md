@@ -15,9 +15,10 @@
 ![MySql] ![MariaDB] ![SQLite]          
 ![Python] ![Github]     
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJiyoun&hide=jupyter%20notebook,c,racket,php,c%2B%2B,html,css,makefile,ruby,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📌 Stats
 ![JeonJiyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJiyoun&show_icons=true&theme=shades-of-purple  )
+
+
 
 
 <!--**JeonJiyoun/JeonJiyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
