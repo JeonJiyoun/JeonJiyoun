@@ -16,7 +16,10 @@
 ![Python] ![Github]     
 
 
+
+![JeonJiyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonJiyoun&show_icons=true&theme=shades-of-purple  )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonJiyoun&hide=jupyter%20notebook,c,racket,php,c%2B%2B,html,css,makefile,ruby,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--**JeonJiyoun/JeonJiyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,7 +37,7 @@ Here are some ideas to get you started:
 [Swift]: https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white
 [iOS]: https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white
 [Xcode]: https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white
-[objc]: https://img.shields.io/badge/Objective_c-6428B4?style=flat-square&logo=Objective_c&logoColor=white
+[objc]: https://img.shields.io/badge/Objective_c-47b264?style=flat-square&logo=Objective_c&logoColor=white
 [Firebase]: https://img.shields.io/badge/Firebase-059BE5?style=flat-square&logo=Firebase&logoColor=FFCA28
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
@@ -48,7 +51,7 @@ Here are some ideas to get you started:
 [MongoDB]: https://img.shields.io/badge/Firebase-059BE5?style=flat-square&logo=Firebase&logoColor=FFCA28
 [HTML]: https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white
 [CSS]: https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white
-[Bootstrap]: https://img.shields.io/badge/bootstrap-7952B3?style=flat-squarelogo=bootstrap&logoColor=white
+[Bootstrap]: https://img.shields.io/badge/bootstrap-4666D0?style=flat-squarelogo=bootstrap&logoColor=white
 [SQLite]: https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white
 
 [Github]: https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white
