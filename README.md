@@ -11,7 +11,7 @@
 
 ### ⚒ Skils               
 ![Swift] ![iOS] ![Xcode] ![objc]          
-![JS] ![React] ![EJS] ![jquery] ![HTML] ![CSS] ![Bootstrap]       
+![JS] ![React] ![TypeScript] ![EJS] ![jquery] ![HTML] ![CSS] ![Bootstrap]       
 ![MySql] ![MariaDB] ![SQLite]          
 ![Python] ![Github]     
 
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 [JS]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black
 [EJS]: https://img.shields.io/badge/EJS-059BE5?style=flat-square&logo=EJS&logoColor=FFCA28
 [React]: https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black
+[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white
 [jquery]: https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white
 [React]: https://img.shields.io/badge/Firebase-059BE5?style=flat-square&logo=Firebase&logoColor=FFCA28
 [Node]: https://img.shields.io/badge/Firebase-059BE5?style=flat-square&logo=Firebase&logoColor=FFCA28
